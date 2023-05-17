@@ -2,7 +2,7 @@
   gap: 7%;
   background-color: var(--white-background);
   width: 877px;
-  display: flex;
+  display: flex !important;
 }
 
 @media screen and (max-width: 768px) {
